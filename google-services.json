@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "531480696048",
+    "firebase_url": "https://misitioba.firebaseio.com",
+    "project_id": "misitioba",
+    "storage_bucket": "misitioba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531480696048:android:6645224184bd2334",
+        "android_client_info": {
+          "package_name": "com.misitioba.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531480696048-ng85qc602m40jq5s1uln9nu6vj6raiq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNdm2Ckl2_CX9xljpc6NHzSsmPk83TL9I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
